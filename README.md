@@ -4,6 +4,7 @@
 
 AskOmics website, build with [Nikola](https://getnikola.com/)
 
+AskOmics is a user-friendly web application for integrating and querying heterogeneous data using RDF/SPARQL.
 
 ## Installation
 
